@@ -1,0 +1,40 @@
+/************** Tag selector *************/
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightslategrey;
+  border-width: 5px;
+  width: 7%;
+}
+h1{
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+}
+h3 {
+  font-size: 26px;
+  color: lightseagreen;
+  font-family:sans-serif;
+  letter-spacing: 1px;
+
+}
+p{
+  color: darkorange;
+}
+li{
+  color: indianred;
+}
+
+/************** CLass selector *************/
+.naman_image{
+  height: 150px;
+}
+.mountain{
+  height: 20px;
+}
+.text{
+  font-size: 20px;
+}
